@@ -43,6 +43,7 @@
 		</Item>
 		<Item Name="Requirements" Type="Folder">
 			<Item Name="Projeto Jogo da Velha - Requirements.docx" Type="Document" URL="../Requirements/Projeto Jogo da Velha - Requirements.docx"/>
+			<Item Name="Jogo-da-Velha.rqtfimage" Type="Document" URL="../Requirements/Jogo-da-Velha.rqtfimage"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
