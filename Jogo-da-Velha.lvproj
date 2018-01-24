@@ -46,6 +46,8 @@
 			<Item Name="Jogo-da-Velha.rqtfimage" Type="Document" URL="../Requirements/Jogo-da-Velha.rqtfimage"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="GameOption.vi" Type="VI" URL="../Requirements/GameOption.vi"/>
+		<Item Name="GameMode.vi" Type="VI" URL="../Requirements/GameMode.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
