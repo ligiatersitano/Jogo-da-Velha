@@ -50,10 +50,12 @@
 			<Item Name="GameOption.ctl" Type="VI" URL="../controls/GameOption.ctl"/>
 			<Item Name="DataOut.ctl" Type="VI" URL="../controls/DataOut.ctl"/>
 			<Item Name="States.ctl" Type="VI" URL="../controls/States.ctl"/>
+			<Item Name="GameMode.ctl" Type="VI" URL="../controls/GameMode.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="GameOption.vi" Type="VI" URL="../Requirements/GameOption.vi"/>
-		<Item Name="GameMode.vi" Type="VI" URL="../Requirements/GameMode.vi"/>
+		<Item Name="GameMode.vi" Type="VI" URL="../GameMode.vi"/>
+		<Item Name="GameOption.vi" Type="VI" URL="../GameOption.vi"/>
+		<Item Name="Log.vi" Type="VI" URL="../Log.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
