@@ -39,11 +39,17 @@
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Data.ctl" Type="VI" URL="../controls/Data.ctl"/>
-			<Item Name="State.ctl" Type="VI" URL="../controls/State.ctl"/>
 		</Item>
 		<Item Name="Requirements" Type="Folder">
 			<Item Name="Projeto Jogo da Velha - Requirements.docx" Type="Document" URL="../Requirements/Projeto Jogo da Velha - Requirements.docx"/>
 			<Item Name="Jogo-da-Velha.rqtfimage" Type="Document" URL="../Requirements/Jogo-da-Velha.rqtfimage"/>
+		</Item>
+		<Item Name="controls" Type="Folder">
+			<Item Name="Tabuleiro.ctl" Type="VI" URL="../controls/Tabuleiro.ctl"/>
+			<Item Name="DataIn.ctl" Type="VI" URL="../controls/DataIn.ctl"/>
+			<Item Name="GameOption.ctl" Type="VI" URL="../controls/GameOption.ctl"/>
+			<Item Name="DataOut.ctl" Type="VI" URL="../controls/DataOut.ctl"/>
+			<Item Name="States.ctl" Type="VI" URL="../controls/States.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="GameOption.vi" Type="VI" URL="../Requirements/GameOption.vi"/>
