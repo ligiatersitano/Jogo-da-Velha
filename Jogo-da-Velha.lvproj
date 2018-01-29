@@ -50,10 +50,8 @@
 			<Item Name="GameOption.ctl" Type="VI" URL="../controls/GameOption.ctl"/>
 			<Item Name="DataOut.ctl" Type="VI" URL="../controls/DataOut.ctl"/>
 			<Item Name="States.ctl" Type="VI" URL="../controls/States.ctl"/>
-			<Item Name="GameMode.ctl" Type="VI" URL="../controls/GameMode.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="GameMode.vi" Type="VI" URL="../GameMode.vi"/>
 		<Item Name="GameOption.vi" Type="VI" URL="../GameOption.vi"/>
 		<Item Name="Log.vi" Type="VI" URL="../Log.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -90,6 +88,7 @@
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 			</Item>
+			<Item Name="GameMode.ctl" Type="VI" URL="../controls/GameMode.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
