@@ -59,6 +59,9 @@
 		<Item Name="First.vi" Type="VI" URL="../First.vi"/>
 		<Item Name="PC.vi" Type="VI" URL="../PC.vi"/>
 		<Item Name="Check.vi" Type="VI" URL="../Check.vi"/>
+		<Item Name="Draw.vi" Type="VI" URL="../Draw.vi"/>
+		<Item Name="X.vi" Type="VI" URL="../X.vi"/>
+		<Item Name="O.vi" Type="VI" URL="../O.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
