@@ -51,6 +51,7 @@
 			<Item Name="DataOut.ctl" Type="VI" URL="../controls/DataOut.ctl"/>
 			<Item Name="States.ctl" Type="VI" URL="../controls/States.ctl"/>
 			<Item Name="LogStates.ctl" Type="VI" URL="../controls/LogStates.ctl"/>
+			<Item Name="TabuleiroCoordenadas.ctl" Type="VI" URL="../controls/TabuleiroCoordenadas.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="GameOption.vi" Type="VI" URL="../GameOption.vi"/>
@@ -62,6 +63,7 @@
 		<Item Name="Draw.vi" Type="VI" URL="../Draw.vi"/>
 		<Item Name="X.vi" Type="VI" URL="../X.vi"/>
 		<Item Name="O.vi" Type="VI" URL="../O.vi"/>
+		<Item Name="Shift.vi" Type="VI" URL="../Shift.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
