@@ -64,6 +64,8 @@
 		<Item Name="X.vi" Type="VI" URL="../X.vi"/>
 		<Item Name="O.vi" Type="VI" URL="../O.vi"/>
 		<Item Name="Shift.vi" Type="VI" URL="../Shift.vi"/>
+		<Item Name="SimpleMove.vi" Type="VI" URL="../SimpleMove.vi"/>
+		<Item Name="Simulator.vi" Type="VI" URL="../Simulator.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
