@@ -53,19 +53,21 @@
 			<Item Name="LogStates.ctl" Type="VI" URL="../controls/LogStates.ctl"/>
 			<Item Name="TabuleiroCoordenadas.ctl" Type="VI" URL="../controls/TabuleiroCoordenadas.ctl"/>
 		</Item>
+		<Item Name="Support VIs" Type="Folder">
+			<Item Name="GameOption.vi" Type="VI" URL="../GameOption.vi"/>
+			<Item Name="Log.vi" Type="VI" URL="../Log.vi"/>
+			<Item Name="Start.vi" Type="VI" URL="../Start.vi"/>
+			<Item Name="First.vi" Type="VI" URL="../First.vi"/>
+			<Item Name="PC.vi" Type="VI" URL="../PC.vi"/>
+			<Item Name="Check.vi" Type="VI" URL="../Check.vi"/>
+			<Item Name="Draw.vi" Type="VI" URL="../Draw.vi"/>
+			<Item Name="X.vi" Type="VI" URL="../X.vi"/>
+			<Item Name="O.vi" Type="VI" URL="../O.vi"/>
+			<Item Name="Shift.vi" Type="VI" URL="../Shift.vi"/>
+			<Item Name="SimpleMove.vi" Type="VI" URL="../SimpleMove.vi"/>
+			<Item Name="Simulator.vi" Type="VI" URL="../Simulator.vi"/>
+		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="GameOption.vi" Type="VI" URL="../GameOption.vi"/>
-		<Item Name="Log.vi" Type="VI" URL="../Log.vi"/>
-		<Item Name="Start.vi" Type="VI" URL="../Start.vi"/>
-		<Item Name="First.vi" Type="VI" URL="../First.vi"/>
-		<Item Name="PC.vi" Type="VI" URL="../PC.vi"/>
-		<Item Name="Check.vi" Type="VI" URL="../Check.vi"/>
-		<Item Name="Draw.vi" Type="VI" URL="../Draw.vi"/>
-		<Item Name="X.vi" Type="VI" URL="../X.vi"/>
-		<Item Name="O.vi" Type="VI" URL="../O.vi"/>
-		<Item Name="Shift.vi" Type="VI" URL="../Shift.vi"/>
-		<Item Name="SimpleMove.vi" Type="VI" URL="../SimpleMove.vi"/>
-		<Item Name="Simulator.vi" Type="VI" URL="../Simulator.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
