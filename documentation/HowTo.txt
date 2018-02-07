@@ -1,0 +1,6 @@
+Como jogar:
+O tabuleiro de jogo é um grid 3x3. 
+Os jogadores irão se alternar colocando Xs e Os no tabuleiro, cada um na sua vez.
+O objetivo é desenhar uma linha, coluna ou diagonal com três símbolos iguais. 
+O primeiro jogador a completar esse objetivo será o ganhador.
+Caso nenhum jogador consiga estabelecer uma sequência de três peças, o jogo acaba em empate.

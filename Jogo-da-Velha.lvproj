@@ -24,6 +24,8 @@
 		<Item Name="Project Documentation" Type="Folder">
 			<Item Name="Simple State Machine Documentation.html" Type="Document" URL="../documentation/Simple State Machine Documentation.html"/>
 			<Item Name="Use Cases - Tic Tac Toe.jpeg" Type="Document" URL="../documentation/Use Cases - Tic Tac Toe.jpeg"/>
+			<Item Name="AppInfo.txt" Type="Document" URL="../documentation/AppInfo.txt"/>
+			<Item Name="HowTo.txt" Type="Document" URL="../documentation/HowTo.txt"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Data.ctl" Type="VI" URL="../controls/Data.ctl"/>
@@ -56,6 +58,7 @@
 			<Item Name="Simulator.vi" Type="VI" URL="../Simulator.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
