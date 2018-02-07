@@ -56,6 +56,10 @@
 			<Item Name="Shift.vi" Type="VI" URL="../Shift.vi"/>
 			<Item Name="SimpleMove.vi" Type="VI" URL="../SimpleMove.vi"/>
 			<Item Name="Simulator.vi" Type="VI" URL="../Simulator.vi"/>
+			<Item Name="AppInfo.vi" Type="VI" URL="../AppInfo.vi"/>
+			<Item Name="HighScores.vi" Type="VI" URL="../HighScores.vi"/>
+			<Item Name="Matches.vi" Type="VI" URL="../Matches.vi"/>
+			<Item Name="HowTo.vi" Type="VI" URL="../HowTo.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
