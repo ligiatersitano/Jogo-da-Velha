@@ -23,7 +23,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Project Documentation" Type="Folder">
 			<Item Name="Simple State Machine Documentation.html" Type="Document" URL="../documentation/Simple State Machine Documentation.html"/>
-			<Item Name="Use Cases - Tic Tac Toe.jpeg" Type="Document" URL="../documentation/Use Cases - Tic Tac Toe.jpeg"/>
 			<Item Name="AppInfo.txt" Type="Document" URL="../documentation/AppInfo.txt"/>
 			<Item Name="HowTo.txt" Type="Document" URL="../documentation/HowTo.txt"/>
 			<Item Name="Documentação do Diagrama de Caso de Uso.xlsx" Type="Document" URL="../documentation/Documentação do Diagrama de Caso de Uso.xlsx"/>
