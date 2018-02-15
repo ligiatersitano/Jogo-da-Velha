@@ -28,11 +28,11 @@
 			<Item Name="Documentação do Diagrama de Caso de Uso.xlsx" Type="Document" URL="../documentation/Documentação do Diagrama de Caso de Uso.xlsx"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
-			<Item Name="Data.ctl" Type="VI" URL="../controls/Data.ctl"/>
+			<Item Name="data.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Deprecated/data.ctl"/>
 		</Item>
 		<Item Name="Requirements" Type="Folder">
 			<Item Name="Projeto Jogo da Velha - Requirements.docx" Type="Document" URL="../Requirements/Projeto Jogo da Velha - Requirements.docx"/>
-			<Item Name="Jogo-da-Velha.rqtfimage" Type="Document" URL="../Requirements/Jogo-da-Velha.rqtfimage"/>
+			<Item Name="Jogo_da_velha.rqtfimage" Type="Document" URL="../Requirements/Jogo_da_velha.rqtfimage"/>
 		</Item>
 		<Item Name="controls" Type="Folder">
 			<Item Name="Tabuleiro.ctl" Type="VI" URL="../controls/Tabuleiro.ctl"/>

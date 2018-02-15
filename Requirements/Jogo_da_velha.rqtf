@@ -1,0 +1,39 @@
+[Files]
+Names=Requisitos,Jogo_da_Velha,Casos de Uso
+RepositoryTool=Boost
+
+[Requisitos]
+Cover1=Jogo_da_Velha
+Cover1Position=2300@1320
+Cover2=Casos de Uso
+Cover2Position=3110@1315
+GraphicPosition=2640@740
+Type=Word
+Path=Projeto Jogo da Velha - Requirements.docx
+AbsolutePath=C:\Users\liferrei\Documents\Jogo-da-Velha\Requirements\Projeto Jogo da Velha - Requirements.docx
+
+[Jogo_da_Velha]
+GraphicPosition=1960@1900
+Variable1Name=recurseViValues
+Variable1Value=0
+Variable2Name=absoluteFiles
+Variable2Value=C:\\Users\\liferrei\\Documents\\Jogo-da-Velha\\Jogo-da-Velha.lvproj
+Variable3Name=recurseDirValues
+Variable3Value=0
+Variable4Name=files
+Variable4Value=..\\Jogo-da-Velha.lvproj
+Variable5Name=defaultDirectory
+Variable5Value=..\\..\\Jogo-da-Velha
+Variable6Name=analyzeDiagrams
+Variable6Value=true
+Type=LabVIEW
+Path=..\Jogo-da-Velha.lvproj
+
+[Casos de Uso]
+GraphicPosition=3580@1890
+Variable1Name=analyzeDiagrams
+Variable1Value=true
+Type=Excel
+Path=..\documentation\Documentação do Diagrama de Caso de Uso.xlsx
+AbsolutePath=C:\Users\liferrei\Documents\Jogo-da-Velha\documentation\DocumentaÃ§Ã£o do Diagrama de Caso de Uso.xlsx
+
