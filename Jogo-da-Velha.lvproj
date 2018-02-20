@@ -59,6 +59,7 @@
 			<Item Name="AppInfo.vi" Type="VI" URL="../AppInfo.vi"/>
 			<Item Name="HighScores.vi" Type="VI" URL="../HighScores.vi"/>
 			<Item Name="Matches.vi" Type="VI" URL="../Matches.vi"/>
+			<Item Name="EnableState.vi" Type="VI" URL="../EnableState.vi"/>
 			<Item Name="HowTo.vi" Type="VI" URL="../HowTo.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
