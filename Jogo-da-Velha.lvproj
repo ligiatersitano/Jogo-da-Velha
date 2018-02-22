@@ -47,7 +47,6 @@
 			<Item Name="GameOption.vi" Type="VI" URL="../GameOption.vi"/>
 			<Item Name="Log.vi" Type="VI" URL="../Log.vi"/>
 			<Item Name="Start.vi" Type="VI" URL="../Start.vi"/>
-			<Item Name="First.vi" Type="VI" URL="../First.vi"/>
 			<Item Name="PC.vi" Type="VI" URL="../PC.vi"/>
 			<Item Name="Check.vi" Type="VI" URL="../Check.vi"/>
 			<Item Name="Draw.vi" Type="VI" URL="../Draw.vi"/>
