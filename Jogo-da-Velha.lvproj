@@ -63,6 +63,8 @@
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
+		<Item Name="Single.vi" Type="VI" URL="../Single.vi"/>
+		<Item Name="Level.vi" Type="VI" URL="../Level.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
