@@ -57,10 +57,10 @@
 			<Item Name="Simulator.vi" Type="VI" URL="../Simulator.vi"/>
 			<Item Name="AppInfo.vi" Type="VI" URL="../AppInfo.vi"/>
 			<Item Name="HighScores.vi" Type="VI" URL="../HighScores.vi"/>
+			<Item Name="Level.vi" Type="VI" URL="../Level.vi"/>
 			<Item Name="Matches.vi" Type="VI" URL="../Matches.vi"/>
 			<Item Name="EnableState.vi" Type="VI" URL="../EnableState.vi"/>
 			<Item Name="HowTo.vi" Type="VI" URL="../HowTo.vi"/>
-			<Item Name="Level.vi" Type="VI" URL="../Level.vi"/>
 			<Item Name="PC Hard.vi" Type="VI" URL="../PC Hard.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
