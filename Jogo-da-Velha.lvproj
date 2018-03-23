@@ -26,6 +26,7 @@
 			<Item Name="AppInfo.txt" Type="Document" URL="../documentation/AppInfo.txt"/>
 			<Item Name="HowTo.txt" Type="Document" URL="../documentation/HowTo.txt"/>
 			<Item Name="Documentação do Diagrama de Caso de Uso.xlsx" Type="Document" URL="../documentation/Documentação do Diagrama de Caso de Uso.xlsx"/>
+			<Item Name="MVP - Tic Tac Toe.pptx" Type="Document" URL="../documentation/MVP - Tic Tac Toe.pptx"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="data.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Deprecated/data.ctl"/>
@@ -45,25 +46,25 @@
 			<Item Name="Login - States.ctl" Type="VI" URL="../controls/Login - States.ctl"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
-			<Item Name="GameOption.vi" Type="VI" URL="../GameOption.vi"/>
-			<Item Name="Log.vi" Type="VI" URL="../Log.vi"/>
-			<Item Name="Start.vi" Type="VI" URL="../Start.vi"/>
-			<Item Name="PC.vi" Type="VI" URL="../PC.vi"/>
-			<Item Name="Check.vi" Type="VI" URL="../Check.vi"/>
-			<Item Name="Draw.vi" Type="VI" URL="../Draw.vi"/>
-			<Item Name="X.vi" Type="VI" URL="../X.vi"/>
-			<Item Name="O.vi" Type="VI" URL="../O.vi"/>
-			<Item Name="Shift.vi" Type="VI" URL="../Shift.vi"/>
-			<Item Name="SimpleMove.vi" Type="VI" URL="../SimpleMove.vi"/>
-			<Item Name="Simulator.vi" Type="VI" URL="../Simulator.vi"/>
-			<Item Name="AppInfo.vi" Type="VI" URL="../AppInfo.vi"/>
-			<Item Name="HighScores.vi" Type="VI" URL="../HighScores.vi"/>
-			<Item Name="Level.vi" Type="VI" URL="../Level.vi"/>
-			<Item Name="Matches.vi" Type="VI" URL="../Matches.vi"/>
-			<Item Name="EnableState.vi" Type="VI" URL="../EnableState.vi"/>
-			<Item Name="HowTo.vi" Type="VI" URL="../HowTo.vi"/>
-			<Item Name="PC Hard.vi" Type="VI" URL="../PC Hard.vi"/>
-			<Item Name="Single.vi" Type="VI" URL="../Single.vi"/>
+			<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
+			<Item Name="Log.vi" Type="VI" URL="../Support VIs/Log.vi"/>
+			<Item Name="Start.vi" Type="VI" URL="../Support VIs/Start.vi"/>
+			<Item Name="PC.vi" Type="VI" URL="../Support VIs/PC.vi"/>
+			<Item Name="Check.vi" Type="VI" URL="../Support VIs/Check.vi"/>
+			<Item Name="Draw.vi" Type="VI" URL="../Support VIs/Draw.vi"/>
+			<Item Name="X.vi" Type="VI" URL="../Support VIs/X.vi"/>
+			<Item Name="O.vi" Type="VI" URL="../Support VIs/O.vi"/>
+			<Item Name="Shift.vi" Type="VI" URL="../Support VIs/Shift.vi"/>
+			<Item Name="SimpleMove.vi" Type="VI" URL="../Support VIs/SimpleMove.vi"/>
+			<Item Name="Simulator.vi" Type="VI" URL="../Support VIs/Simulator.vi"/>
+			<Item Name="AppInfo.vi" Type="VI" URL="../Support VIs/AppInfo.vi"/>
+			<Item Name="HighScores.vi" Type="VI" URL="../Support VIs/HighScores.vi"/>
+			<Item Name="Level.vi" Type="VI" URL="../Support VIs/Level.vi"/>
+			<Item Name="Matches.vi" Type="VI" URL="../Support VIs/Matches.vi"/>
+			<Item Name="EnableState.vi" Type="VI" URL="../Support VIs/EnableState.vi"/>
+			<Item Name="HowTo.vi" Type="VI" URL="../Support VIs/HowTo.vi"/>
+			<Item Name="PC Hard.vi" Type="VI" URL="../Support VIs/PC Hard.vi"/>
+			<Item Name="Single.vi" Type="VI" URL="../Support VIs/Single.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
