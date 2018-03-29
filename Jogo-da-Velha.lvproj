@@ -65,6 +65,7 @@
 			<Item Name="HowTo.vi" Type="VI" URL="../Support VIs/HowTo.vi"/>
 			<Item Name="PC Hard.vi" Type="VI" URL="../Support VIs/PC Hard.vi"/>
 			<Item Name="Single.vi" Type="VI" URL="../Support VIs/Single.vi"/>
+			<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
