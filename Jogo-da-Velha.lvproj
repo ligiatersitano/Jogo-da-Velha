@@ -39,7 +39,6 @@
 			<Item Name="Tabuleiro.ctl" Type="VI" URL="../controls/Tabuleiro.ctl"/>
 			<Item Name="DataIn.ctl" Type="VI" URL="../controls/DataIn.ctl"/>
 			<Item Name="GameOption.ctl" Type="VI" URL="../controls/GameOption.ctl"/>
-			<Item Name="DataOut.ctl" Type="VI" URL="../controls/DataOut.ctl"/>
 			<Item Name="States.ctl" Type="VI" URL="../controls/States.ctl"/>
 			<Item Name="LogStates.ctl" Type="VI" URL="../controls/LogStates.ctl"/>
 			<Item Name="TabuleiroCoordenadas.ctl" Type="VI" URL="../controls/TabuleiroCoordenadas.ctl"/>
@@ -68,6 +67,7 @@
 			<Item Name="Single.vi" Type="VI" URL="../Support VIs/Single.vi"/>
 			<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
 			<Item Name="SeeInvitation.vi" Type="VI" URL="../Support VIs/SeeInvitation.vi"/>
+			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
