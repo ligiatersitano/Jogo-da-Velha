@@ -27,6 +27,7 @@
 			<Item Name="HowTo.txt" Type="Document" URL="../documentation/HowTo.txt"/>
 			<Item Name="Documentação do Diagrama de Caso de Uso.xlsx" Type="Document" URL="../documentation/Documentação do Diagrama de Caso de Uso.xlsx"/>
 			<Item Name="MVP - Tic Tac Toe.pptx" Type="Document" URL="../documentation/MVP - Tic Tac Toe.pptx"/>
+			<Item Name="Lígia - MVP Planning.xlsx" Type="Document" URL="../documentation/Lígia - MVP Planning.xlsx"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="data.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Deprecated/data.ctl"/>
