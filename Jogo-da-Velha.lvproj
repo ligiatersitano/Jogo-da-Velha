@@ -48,7 +48,6 @@
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
 			<Item Name="Log.vi" Type="VI" URL="../Support VIs/Log.vi"/>
-			<Item Name="Start.vi" Type="VI" URL="../Support VIs/Start.vi"/>
 			<Item Name="PC.vi" Type="VI" URL="../Support VIs/PC.vi"/>
 			<Item Name="Check.vi" Type="VI" URL="../Support VIs/Check.vi"/>
 			<Item Name="Draw.vi" Type="VI" URL="../Support VIs/Draw.vi"/>
