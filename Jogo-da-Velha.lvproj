@@ -68,10 +68,12 @@
 			<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
 			<Item Name="SeeInvitation.vi" Type="VI" URL="../Support VIs/SeeInvitation.vi"/>
 			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
+			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
 		<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
+		<Item Name="LoginStatus.ctl" Type="VI" URL="../controls/LoginStatus.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
