@@ -45,6 +45,7 @@
 			<Item Name="TabuleiroCoordenadas.ctl" Type="VI" URL="../controls/TabuleiroCoordenadas.ctl"/>
 			<Item Name="Login - States.ctl" Type="VI" URL="../controls/Login - States.ctl"/>
 			<Item Name="Table.ctl" Type="VI" URL="../controls/Table.ctl"/>
+			<Item Name="LoginStatus.ctl" Type="VI" URL="../controls/LoginStatus.ctl"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
@@ -73,7 +74,6 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
 		<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
-		<Item Name="LoginStatus.ctl" Type="VI" URL="../controls/LoginStatus.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
