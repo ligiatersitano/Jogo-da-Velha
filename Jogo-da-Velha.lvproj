@@ -72,6 +72,11 @@
 			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
 			<Item Name="FileInteraction.vi" Type="VI" URL="../Support VIs/FileInteraction.vi"/>
 		</Item>
+		<Item Name="MatchDataClasses" Type="Folder">
+			<Item Name="MatchData.lvclass" Type="LVClass" URL="../MatchDataClasses/MatchData/MatchData.lvclass"/>
+			<Item Name="Local.lvclass" Type="LVClass" URL="../MatchDataClasses/Local/Local.lvclass"/>
+			<Item Name="Remote.lvclass" Type="LVClass" URL="../MatchDataClasses/Remote/Remote.lvclass"/>
+		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
 		<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
