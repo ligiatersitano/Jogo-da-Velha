@@ -70,6 +70,7 @@
 			<Item Name="SeeInvitation.vi" Type="VI" URL="../Support VIs/SeeInvitation.vi"/>
 			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
 			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
+			<Item Name="FileInteraction.vi" Type="VI" URL="../Support VIs/FileInteraction.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
