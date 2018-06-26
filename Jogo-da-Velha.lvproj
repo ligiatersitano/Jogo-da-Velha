@@ -81,7 +81,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
 		<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
-		<Item Name="MainVI.vi" Type="VI" URL="../MainVI.vi"/>
+		<Item Name="UI.vi" Type="VI" URL="../UI.vi"/>
 		<Item Name="Splash Screen.vi" Type="VI" URL="../Support VIs/Splash Screen.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
