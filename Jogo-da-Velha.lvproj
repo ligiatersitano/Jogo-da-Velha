@@ -48,6 +48,11 @@
 			<Item Name="LoginStatus.ctl" Type="VI" URL="../controls/LoginStatus.ctl"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
+			<Item Name="Globals.vi" Type="VI" URL="../Support VIs/Globals.vi"/>
+			<Item Name="HowTo.vi" Type="VI" URL="../Support VIs/HowTo.vi"/>
+			<Item Name="AppInfo.vi" Type="VI" URL="../Support VIs/AppInfo.vi"/>
+			<Item Name="Matches.vi" Type="VI" URL="../Support VIs/Matches.vi"/>
+			<Item Name="HighScores.vi" Type="VI" URL="../Support VIs/HighScores.vi"/>
 			<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
 			<Item Name="Log.vi" Type="VI" URL="../Support VIs/Log.vi"/>
 			<Item Name="PC.vi" Type="VI" URL="../Support VIs/PC.vi"/>
@@ -58,12 +63,8 @@
 			<Item Name="Shift.vi" Type="VI" URL="../Support VIs/Shift.vi"/>
 			<Item Name="SimpleMove.vi" Type="VI" URL="../Support VIs/SimpleMove.vi"/>
 			<Item Name="Simulator.vi" Type="VI" URL="../Support VIs/Simulator.vi"/>
-			<Item Name="AppInfo.vi" Type="VI" URL="../Support VIs/AppInfo.vi"/>
-			<Item Name="HighScores.vi" Type="VI" URL="../Support VIs/HighScores.vi"/>
 			<Item Name="Level.vi" Type="VI" URL="../Support VIs/Level.vi"/>
-			<Item Name="Matches.vi" Type="VI" URL="../Support VIs/Matches.vi"/>
 			<Item Name="EnableState.vi" Type="VI" URL="../Support VIs/EnableState.vi"/>
-			<Item Name="HowTo.vi" Type="VI" URL="../Support VIs/HowTo.vi"/>
 			<Item Name="PC Hard.vi" Type="VI" URL="../Support VIs/PC Hard.vi"/>
 			<Item Name="Single.vi" Type="VI" URL="../Support VIs/Single.vi"/>
 			<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
@@ -71,7 +72,6 @@
 			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
 			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
 			<Item Name="FileInteraction.vi" Type="VI" URL="../Support VIs/FileInteraction.vi"/>
-			<Item Name="Globals.vi" Type="VI" URL="../Support VIs/Globals.vi"/>
 		</Item>
 		<Item Name="MatchDataClasses" Type="Folder">
 			<Item Name="MatchData.lvclass" Type="LVClass" URL="../MatchDataClasses/MatchData/MatchData.lvclass"/>
