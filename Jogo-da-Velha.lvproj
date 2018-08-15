@@ -53,7 +53,6 @@
 			<Item Name="AppInfo.vi" Type="VI" URL="../Support VIs/AppInfo.vi"/>
 			<Item Name="Matches.vi" Type="VI" URL="../Support VIs/Matches.vi"/>
 			<Item Name="HighScores.vi" Type="VI" URL="../Support VIs/HighScores.vi"/>
-			<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
 			<Item Name="Log.vi" Type="VI" URL="../Support VIs/Log.vi"/>
 			<Item Name="PC.vi" Type="VI" URL="../Support VIs/PC.vi"/>
 			<Item Name="Check.vi" Type="VI" URL="../Support VIs/Check.vi"/>
@@ -69,6 +68,7 @@
 			<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
 			<Item Name="SeeInvitation.vi" Type="VI" URL="../Support VIs/SeeInvitation.vi"/>
 			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
+			<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
 			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
 		</Item>
 		<Item Name="MatchDataClasses" Type="Folder">
