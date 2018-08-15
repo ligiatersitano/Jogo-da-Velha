@@ -66,12 +66,10 @@
 			<Item Name="Level.vi" Type="VI" URL="../Support VIs/Level.vi"/>
 			<Item Name="EnableState.vi" Type="VI" URL="../Support VIs/EnableState.vi"/>
 			<Item Name="PC Hard.vi" Type="VI" URL="../Support VIs/PC Hard.vi"/>
-			<Item Name="Single.vi" Type="VI" URL="../Support VIs/Single.vi"/>
 			<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
 			<Item Name="SeeInvitation.vi" Type="VI" URL="../Support VIs/SeeInvitation.vi"/>
 			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
 			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
-			<Item Name="FileInteraction.vi" Type="VI" URL="../Support VIs/FileInteraction.vi"/>
 		</Item>
 		<Item Name="MatchDataClasses" Type="Folder">
 			<Item Name="MatchData.lvclass" Type="LVClass" URL="../MatchDataClasses/MatchData/MatchData.lvclass"/>
