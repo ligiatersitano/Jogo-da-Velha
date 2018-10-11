@@ -48,37 +48,47 @@
 			<Item Name="LoginStatus.ctl" Type="VI" URL="../controls/LoginStatus.ctl"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
+			<Item Name="Sub Panels" Type="Folder">
+				<Item Name="Main.vi" Type="VI" URL="../Support VIs/Main.vi"/>
+				<Item Name="Login.vi" Type="VI" URL="../Support VIs/Login.vi"/>
+				<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
+				<Item Name="SeeInvitation.vi" Type="VI" URL="../Support VIs/SeeInvitation.vi"/>
+			</Item>
+			<Item Name="Pop Ups" Type="Folder">
+				<Item Name="HowTo.vi" Type="VI" URL="../Support VIs/HowTo.vi"/>
+				<Item Name="AppInfo.vi" Type="VI" URL="../Support VIs/AppInfo.vi"/>
+				<Item Name="Matches.vi" Type="VI" URL="../Support VIs/Matches.vi"/>
+				<Item Name="HighScores.vi" Type="VI" URL="../Support VIs/HighScores.vi"/>
+			</Item>
+			<Item Name="BOT" Type="Folder">
+				<Item Name="PC.vi" Type="VI" URL="../Support VIs/PC.vi"/>
+				<Item Name="SimpleMove.vi" Type="VI" URL="../Support VIs/SimpleMove.vi"/>
+				<Item Name="PC Hard.vi" Type="VI" URL="../Support VIs/PC Hard.vi"/>
+			</Item>
+			<Item Name="Operations" Type="Folder">
+				<Item Name="Shift.vi" Type="VI" URL="../Support VIs/Shift.vi"/>
+				<Item Name="Log.vi" Type="VI" URL="../Support VIs/Log.vi"/>
+				<Item Name="Level.vi" Type="VI" URL="../Support VIs/Level.vi"/>
+				<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
+				<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
+				<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
+				<Item Name="Simulator.vi" Type="VI" URL="../Support VIs/Simulator.vi"/>
+				<Item Name="EnableState.vi" Type="VI" URL="../Support VIs/EnableState.vi"/>
+				<Item Name="Check.vi" Type="VI" URL="../Support VIs/Check.vi"/>
+			</Item>
+			<Item Name="Results" Type="Folder">
+				<Item Name="Draw.vi" Type="VI" URL="../Support VIs/Draw.vi"/>
+				<Item Name="X.vi" Type="VI" URL="../Support VIs/X.vi"/>
+				<Item Name="O.vi" Type="VI" URL="../Support VIs/O.vi"/>
+			</Item>
 			<Item Name="Globals.vi" Type="VI" URL="../Support VIs/Globals.vi"/>
-			<Item Name="HowTo.vi" Type="VI" URL="../Support VIs/HowTo.vi"/>
-			<Item Name="AppInfo.vi" Type="VI" URL="../Support VIs/AppInfo.vi"/>
-			<Item Name="Matches.vi" Type="VI" URL="../Support VIs/Matches.vi"/>
-			<Item Name="HighScores.vi" Type="VI" URL="../Support VIs/HighScores.vi"/>
-			<Item Name="Log.vi" Type="VI" URL="../Support VIs/Log.vi"/>
-			<Item Name="PC.vi" Type="VI" URL="../Support VIs/PC.vi"/>
-			<Item Name="Check.vi" Type="VI" URL="../Support VIs/Check.vi"/>
-			<Item Name="Draw.vi" Type="VI" URL="../Support VIs/Draw.vi"/>
-			<Item Name="X.vi" Type="VI" URL="../Support VIs/X.vi"/>
-			<Item Name="O.vi" Type="VI" URL="../Support VIs/O.vi"/>
-			<Item Name="Shift.vi" Type="VI" URL="../Support VIs/Shift.vi"/>
-			<Item Name="SimpleMove.vi" Type="VI" URL="../Support VIs/SimpleMove.vi"/>
-			<Item Name="Simulator.vi" Type="VI" URL="../Support VIs/Simulator.vi"/>
-			<Item Name="Level.vi" Type="VI" URL="../Support VIs/Level.vi"/>
-			<Item Name="EnableState.vi" Type="VI" URL="../Support VIs/EnableState.vi"/>
-			<Item Name="PC Hard.vi" Type="VI" URL="../Support VIs/PC Hard.vi"/>
-			<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
-			<Item Name="SeeInvitation.vi" Type="VI" URL="../Support VIs/SeeInvitation.vi"/>
-			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
-			<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
-			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
 		</Item>
 		<Item Name="MatchDataClasses" Type="Folder">
 			<Item Name="MatchData.lvclass" Type="LVClass" URL="../MatchDataClasses/MatchData/MatchData.lvclass"/>
 			<Item Name="Local.lvclass" Type="LVClass" URL="../MatchDataClasses/Local/Local.lvclass"/>
 			<Item Name="Remote.lvclass" Type="LVClass" URL="../MatchDataClasses/Remote/Remote.lvclass"/>
 		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
-		<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
 		<Item Name="UI.vi" Type="VI" URL="../UI.vi"/>
 		<Item Name="Splash Screen.vi" Type="VI" URL="../Support VIs/Splash Screen.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -202,7 +212,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{E14DB2DD-E011-49B1-8A6D-0145D8676319}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Support VIs/Sub Panels/Main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
