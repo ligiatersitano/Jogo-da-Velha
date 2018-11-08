@@ -39,6 +39,10 @@
 			<Item Name="HowTo.vi" Type="VI" URL="../Popups/HowTo.vi"/>
 			<Item Name="Matches.vi" Type="VI" URL="../Popups/Matches.vi"/>
 		</Item>
+		<Item Name="Support VIs" Type="Folder">
+			<Item Name="Disable.vi" Type="VI" URL="../Support VIs/Disable.vi"/>
+			<Item Name="Visibility.vi" Type="VI" URL="../Support VIs/Visibility.vi"/>
+		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
