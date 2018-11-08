@@ -33,8 +33,11 @@
 		<Item Name="SubPanels" Type="Folder" URL="../SubPanels">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Pop Ups" Type="Folder" URL="../Pop Ups">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Pop Ups" Type="Folder">
+			<Item Name="AppInfo.vi" Type="VI" URL="../Popups/AppInfo.vi"/>
+			<Item Name="HighScores.vi" Type="VI" URL="../Popups/HighScores.vi"/>
+			<Item Name="HowTo.vi" Type="VI" URL="../Popups/HowTo.vi"/>
+			<Item Name="Matches.vi" Type="VI" URL="../Popups/Matches.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">

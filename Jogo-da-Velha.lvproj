@@ -49,6 +49,7 @@
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="Sub Panels" Type="Folder">
+				<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
 				<Item Name="Main.vi" Type="VI" URL="../Support VIs/Main.vi"/>
 				<Item Name="Login.vi" Type="VI" URL="../Support VIs/Login.vi"/>
 				<Item Name="GameOption.vi" Type="VI" URL="../Support VIs/GameOption.vi"/>
@@ -88,7 +89,6 @@
 			<Item Name="Local.lvclass" Type="LVClass" URL="../MatchDataClasses/Local/Local.lvclass"/>
 			<Item Name="Remote.lvclass" Type="LVClass" URL="../MatchDataClasses/Remote/Remote.lvclass"/>
 		</Item>
-		<Item Name="OpeningScreen.vi" Type="VI" URL="../OpeningScreen.vi"/>
 		<Item Name="UI.vi" Type="VI" URL="../UI.vi"/>
 		<Item Name="Splash Screen.vi" Type="VI" URL="../Support VIs/Splash Screen.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
