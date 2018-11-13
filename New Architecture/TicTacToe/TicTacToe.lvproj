@@ -43,6 +43,27 @@
 			<Item Name="Disable.vi" Type="VI" URL="../Support VIs/Disable.vi"/>
 			<Item Name="Visibility.vi" Type="VI" URL="../Support VIs/Visibility.vi"/>
 		</Item>
+		<Item Name="controls" Type="Folder">
+			<Item Name="DataIn.ctl" Type="VI" URL="../controls/DataIn.ctl"/>
+			<Item Name="Login - States.ctl" Type="VI" URL="../controls/Login - States.ctl"/>
+			<Item Name="LoginStatus.ctl" Type="VI" URL="../controls/LoginStatus.ctl"/>
+			<Item Name="LogStates.ctl" Type="VI" URL="../controls/LogStates.ctl"/>
+			<Item Name="States.ctl" Type="VI" URL="../controls/States.ctl"/>
+			<Item Name="Table.ctl" Type="VI" URL="../controls/Table.ctl"/>
+			<Item Name="Tabuleiro.ctl" Type="VI" URL="../controls/Tabuleiro.ctl"/>
+			<Item Name="TabuleiroCoordenadas.ctl" Type="VI" URL="../controls/TabuleiroCoordenadas.ctl"/>
+		</Item>
+		<Item Name="MatchDataClasses" Type="Folder">
+			<Item Name="Local" Type="Folder">
+				<Item Name="Local.lvclass" Type="LVClass" URL="../MatchDataClasses/Local/Local.lvclass"/>
+			</Item>
+			<Item Name="MatchData" Type="Folder">
+				<Item Name="MatchData.lvclass" Type="LVClass" URL="../MatchDataClasses/MatchData/MatchData.lvclass"/>
+			</Item>
+			<Item Name="Remote" Type="Folder">
+				<Item Name="Remote.lvclass" Type="LVClass" URL="../MatchDataClasses/Remote/Remote.lvclass"/>
+			</Item>
+		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
