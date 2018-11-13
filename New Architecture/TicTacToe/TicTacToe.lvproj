@@ -43,6 +43,7 @@
 			<Item Name="Disable.vi" Type="VI" URL="../Support VIs/Disable.vi"/>
 			<Item Name="Visibility.vi" Type="VI" URL="../Support VIs/Visibility.vi"/>
 			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
+			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
 		</Item>
 		<Item Name="controls" Type="Folder">
 			<Item Name="DataIn.ctl" Type="VI" URL="../controls/DataIn.ctl"/>
