@@ -64,7 +64,7 @@
 				<Item Name="Remote.lvclass" Type="LVClass" URL="../MatchDataClasses/Remote/Remote.lvclass"/>
 			</Item>
 		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="UI.vi" Type="VI" URL="../UI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
