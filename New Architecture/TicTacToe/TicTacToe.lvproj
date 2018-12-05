@@ -45,6 +45,8 @@
 			<Item Name="Versus.vi" Type="VI" URL="../Support VIs/Versus.vi"/>
 			<Item Name="LoginInteraction.vi" Type="VI" URL="../Support VIs/LoginInteraction.vi"/>
 			<Item Name="Invite.vi" Type="VI" URL="../Support VIs/Invite.vi"/>
+			<Item Name="Log.vi" Type="VI" URL="../Support VIs/Log.vi"/>
+			<Item Name="Check.vi" Type="VI" URL="../Support VIs/Check.vi"/>
 		</Item>
 		<Item Name="controls" Type="Folder">
 			<Item Name="DataIn.ctl" Type="VI" URL="../controls/DataIn.ctl"/>
