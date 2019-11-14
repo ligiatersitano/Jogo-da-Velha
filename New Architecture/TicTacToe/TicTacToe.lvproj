@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="19008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -69,6 +69,7 @@
 			</Item>
 		</Item>
 		<Item Name="UI.vi" Type="VI" URL="../UI.vi"/>
+		<Item Name="Splash Screen.vi" Type="VI" URL="../Splash Screen.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
@@ -152,6 +153,7 @@
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="Reply Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Reply Msg/Reply Msg.lvclass"/>
+				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Balloon Engine.lvlib" Type="Library" URL="/&lt;userlib&gt;/_SmartBalloon/Balloon Engine.lvlib"/>
@@ -161,7 +163,6 @@
 			<Item Name="setUIData.vi" Type="VI" URL="../UI/setUIData.vi"/>
 			<Item Name="getUIData.vi" Type="VI" URL="../UI/getUIData.vi"/>
 			<Item Name="setEmbeddedVI.vi" Type="VI" URL="../UI/setEmbeddedVI.vi"/>
-			<Item Name="fgv_userEvent.vi" Type="VI" URL="../UI/fgv_userEvent.vi"/>
 			<Item Name="UI.lvclass" Type="LVClass" URL="../UI/UI.lvclass"/>
 			<Item Name="GameOption.ctl" Type="VI" URL="../controls/GameOption.ctl"/>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
