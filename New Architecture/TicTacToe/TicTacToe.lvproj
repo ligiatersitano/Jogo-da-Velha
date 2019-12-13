@@ -161,7 +161,6 @@
 			<Item Name="Table.ctl" Type="VI" URL="../controls/Table.ctl"/>
 			<Item Name="UI.ctl" Type="VI" URL="../UI/UI.lvclass/UI.ctl"/>
 			<Item Name="setUIData.vi" Type="VI" URL="../UI/setUIData.vi"/>
-			<Item Name="getUIData.vi" Type="VI" URL="../UI/getUIData.vi"/>
 			<Item Name="setEmbeddedVI.vi" Type="VI" URL="../UI/setEmbeddedVI.vi"/>
 			<Item Name="UI.lvclass" Type="LVClass" URL="../UI/UI.lvclass"/>
 			<Item Name="GameOption.ctl" Type="VI" URL="../controls/GameOption.ctl"/>
@@ -174,6 +173,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
+			<Item Name="getUIData.vi" Type="VI" URL="../UI/getUIData.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
